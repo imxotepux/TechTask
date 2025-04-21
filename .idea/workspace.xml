@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d30d47e6-203e-4ff8-bcd1-934c285e3690" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../MavenMultiModuleProject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenMultiModuleProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenMultiModuleProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenMultiModuleProject/data-lib/src/main/java/logit/tech/interfaces/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenMultiModuleProject/data-lib/src/main/java/logit/tech/interfaces/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenMultiModuleProject/data-lib/src/main/java/logit/tech/interfaces/ListElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenMultiModuleProject/data-lib/src/main/java/logit/tech/interfaces/ListElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenMultiModuleProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenMultiModuleProject/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vqsx5pdX96zksASjk9YhfBpYcM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.ReportPortalAPI.executor": "Run",
+    "JUnit.CreateDashboardTest.createDashboardTest.executor": "Run",
+    "JUnit.CreateDashboardTest.executor": "Debug",
+    "JUnit.CreateDashboardTest.negativeCreateDashboardTest.executor": "Run",
+    "JUnit.CreateDashboardTest.testCreateDashboard.executor": "Run",
+    "JUnit.CreateDashboardWithWidgetTest.createDashaboardWithWidgetTest.executor": "Run",
+    "JUnit.CreateDashboardWithWidgetTest.createDashboardWithWidgetTest.executor": "Run",
+    "JUnit.CreateDashboardWithWidgetTest.executor": "Run",
+    "Maven.ReportPortal [clean].executor": "Run",
+    "Maven.ReportPortal [compile].executor": "Run",
+    "Maven.ReportPortal [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "HW-2024-11-21",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Aleksey/IdeaProjects/ReportPortal/src/test/java",
+    "last_opened_file_path": "C:/Users/Aleksey/IdeaProjects/teamwork2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksey\IdeaProjects\ReportPortal\codestyle" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksey\IdeaProjects\ReportPortal\src\main\resources" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="utils.API.Helper" />
+      <recent name="configs.BrowserConfigs" />
+      <recent name="common.Utils" />
+      <recent name="Steps.UserActions" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="utils" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CreateDashboardWithWidgetTest.createDashboardWithWidgetTest">
+    <configuration name="CreateDashboardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReportPortal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.CreateDashboardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateDashboardTest.createDashboardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReportPortal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.CreateDashboardTest" />
+      <option name="METHOD_NAME" value="createDashboardTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateDashboardTest.negativeCreateDashboardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReportPortal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.CreateDashboardTest" />
+      <option name="METHOD_NAME" value="negativeCreateDashboardTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateDashboardWithWidgetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReportPortal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui" />
+      <option name="MAIN_CLASS_NAME" value="ui.CreateDashboardWithWidgetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateDashboardWithWidgetTest.createDashboardWithWidgetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReportPortal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui" />
+      <option name="MAIN_CLASS_NAME" value="ui.CreateDashboardWithWidgetTest" />
+      <option name="METHOD_NAME" value="createDashboardWithWidgetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreateDashboardWithWidgetTest.createDashboardWithWidgetTest" />
+        <item itemvalue="JUnit.CreateDashboardWithWidgetTest" />
+        <item itemvalue="JUnit.CreateDashboardTest" />
+        <item itemvalue="JUnit.CreateDashboardTest.createDashboardTest" />
+        <item itemvalue="JUnit.CreateDashboardTest.negativeCreateDashboardTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d30d47e6-203e-4ff8-bcd1-934c285e3690" name="Changes" comment="" />
+      <created>1744884186808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744884186808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ui/CreateDashboardWithWidgetTest.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/steps/CommonSteps.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

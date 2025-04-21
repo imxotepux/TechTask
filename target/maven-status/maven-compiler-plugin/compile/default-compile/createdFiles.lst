@@ -1,0 +1,7 @@
+pages\NewWidgetPage.class
+steps\UserActions.class
+pages\DashboardDetailsPage.class
+pages\LoginPage.class
+steps\CommonSteps.class
+pages\DasboardsPage.class
+configs\BrowserConfigs.class
